@@ -1,6 +1,4 @@
-# ***Design an  website for Firefly Restaurant***
-
-## ***The website was designed using Figma tools and some image***
+# ***The website was designed using Figma tools and some image***
 
 - [WireFrame](https://www.figma.com/file/v1xTiTyaF5Yk57IQExzjvt/Untitled?type=design&node-id=0-1&mode=design&t=7QjCGKA3SxaHxBpb-0).
 
